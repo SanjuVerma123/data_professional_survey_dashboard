@@ -18,7 +18,7 @@ This project analyzes survey data of data professionals using Power BI.
 
 ## Dashboard Preview
 
-(Upload dashboard.png here)
+![Dashboard Preview](Dashboard.png)
 
 ## Files
 
